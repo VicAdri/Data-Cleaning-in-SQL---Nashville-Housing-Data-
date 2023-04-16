@@ -9,4 +9,4 @@ Some of the cleaning processes include:
  3. Breaking out PropertyAddress into Individual Columns (Address, City)
  4. Breaking out OwnerAddress into Individual Columns (Address, City,State)
  5. Change Y and N to Yes and No in "Sold as Vacant" field
- 6. Remove Duplicates
+ 6. Removing Duplicates
