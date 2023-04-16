@@ -1,6 +1,6 @@
 # Data-Cleaning-in-SQL-Nashville-Housing-Data
 
-This is a data cleaning project using SQL server.
+This is a data with over 56000 rows from the year 2013 to 2019 for cleaning project using SQL server.
 
 Some of the cleaning processes include:
 
