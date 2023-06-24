@@ -2,7 +2,7 @@
 
 This is a data with over 56000 rows from the year 2013 to 2019 for cleaning project using SQL server.
 
-Some of the cleaning processes include:
+Some of the cleaning processes in this project were:
 
  1. Standardizing Date Format
  2. Populating Null value and updating the results
